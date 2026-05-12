@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+.env
+
+# Logs and captures (Cybersecurity specific)
+*.log
+*.pcap
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
